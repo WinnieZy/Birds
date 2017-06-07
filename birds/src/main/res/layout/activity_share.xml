@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:background="#40bda4"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/back" />
+
+        <TextView
+            android:id="@+id/tv_share"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/Share"
+            android:textColor="@android:color/white"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/btn_sharesend"
+            android:layout_width="46dp"
+            android:layout_height="26dp"
+            android:layout_marginRight="6dp"
+            android:text="发布"
+            android:textSize="13sp"
+            android:textColor="#40bda4"
+            android:background="@drawable/sharebg" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp" >
+
+        <ImageView
+            android:id="@+id/iv_dc_head"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/head" />
+
+		<RadioGroup
+		     android:id="@+id/radioGroup"
+		     android:layout_width="wrap_content"
+		     android:layout_height="wrap_content"
+		     android:orientation="horizontal"
+		     android:layout_gravity="center_vertical"
+		     android:layout_marginLeft="20dp" >
+		
+		     <RadioButton
+		         android:id="@+id/rb_yuan"
+		         android:layout_width="wrap_content"
+		         android:layout_height="wrap_content"
+		         android:text="原创" />
+		
+		     <RadioButton
+		         android:id="@+id/rb_ban"
+		         android:layout_width="wrap_content"
+		         android:layout_height="wrap_content"
+		         android:text="搬运" />
+		</RadioGroup>
+         
+    </LinearLayout>
+
+    <View 
+        android:layout_width="280dp"
+        android:layout_height="1dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="10dp"
+        android:background="#cbcdcb"/>
+    
+    <EditText 
+        android:id="@+id/share_pt"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:hint="诗歌名"
+        android:textSize="16sp"
+        android:background="@null"/>
+    
+    <View 
+        android:layout_width="280dp"
+        android:layout_height="1dp"
+        android:layout_marginLeft="50dp"
+        android:background="#cbcdcb"/>
+    
+    <EditText 
+        android:id="@+id/share_pc"
+        android:layout_width="280dp"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:hint="内容"
+        android:textSize="14sp"
+        android:lineSpacingExtra="10dp"
+        android:gravity="top"
+        android:background="@null"/>
+</LinearLayout>

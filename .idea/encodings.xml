@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/birds/src/main/java/com/zy/birds/Model/BirdsDB.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/birds/src/main/java/com/zy/birds/activity/ListViewWLAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/birds/src/main/java/com/zy/birds/activity/LoadingActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/birds/src/main/java/com/zy/birds/activity/LoginActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/birds/src/main/java/com/zy/birds/activity/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/birds/src/main/java/com/zy/birds/activity/PicAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/birds/src/main/java/com/zy/birds/activity/RegisterActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/birds/src/main/java/com/zy/birds/activity/SettingsActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/birds/src/main/java/com/zy/birds/db/MyDatabaseHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/birds/src/main/java/com/zy/birds/fragment/DiscoverFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/birds/src/main/java/com/zy/birds/fragment/TodayFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/birds/src/main/java/com/zy/birds/util/AsyncImageLoader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/birds/src/main/java/com/zy/birds/util/HttpUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/birds/src/main/java/com/zy/birds/util/ImageUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/birds/src/main/java/com/zy/birds/util/JsonUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/birds/src/main/java/com/zy/birds/util/MD5Util.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

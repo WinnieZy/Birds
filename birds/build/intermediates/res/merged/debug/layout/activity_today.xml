@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#e4f4d9">
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:orientation="horizontal"
+        android:background="#40bda4">
+        
+        <Button 
+            android:id="@+id/btn_menu"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="10dp"
+            android:onClick="showLeftMenu"
+            android:background="@drawable/btn_menu"/>
+        
+        <TextView 
+            android:id="@+id/tv_today"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_marginLeft="30dp"
+            android:gravity="center"
+            android:text="@string/Today"
+            android:textSize="18sp"
+            android:textColor="@android:color/white"/>
+        
+        <Button 
+            android:id="@+id/btn_search"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/btn_search"/>
+        
+        <Button 
+            android:id="@+id/btn_share"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="6dp"
+            android:background="@drawable/btn_share"/>
+        
+    </LinearLayout>
+	   
+	<ScrollView 
+	    android:layout_width="match_parent"
+	    android:layout_height="0dp"
+	    android:layout_weight="1">
+	
+	    <LinearLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="vertical" 
+	    	android:layout_margin="10dp"	        
+	    	android:background="@drawable/bg_border">
+	        
+	        <ImageView 
+	            android:id="@+id/iv_today"
+	            android:layout_width="match_parent"
+	            android:layout_height="360dp"
+	            android:src="@drawable/iv_today"
+	            android:scaleType="fitXY"
+	            android:layout_marginTop="1dp"
+	            android:layout_marginLeft="1dp"
+	            android:layout_marginRight="1dp"/>
+	        
+	        <View 
+	            android:layout_width="match_parent"
+	            android:layout_height="1dp"
+	            android:background="#a1a59e"
+	            android:layout_marginLeft="1dp"
+	            android:layout_marginRight="1dp"/>
+	        
+	        <LinearLayout 
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:orientation="vertical"
+	            android:background="#ffffff"
+				android:layout_marginBottom="1dp"
+	            android:layout_marginLeft="1dp"
+	            android:layout_marginRight="1dp">
+	            
+		        <TextView 
+		            android:id="@+id/tv_pt"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:gravity="center_horizontal"
+		            android:text="悯农"
+		            android:layout_marginTop="10dp"
+		            android:layout_marginBottom="10dp"/>
+		        
+		        <TextView 
+		            android:id="@+id/tv_pa"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:gravity="center_horizontal"
+		            android:text="【唐】李坤"
+		            android:textSize="12sp"
+		            android:layout_marginBottom="10dp"/>
+		                
+		        <TextView 
+		            android:id="@+id/tv_pc"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:gravity="center_horizontal"
+		            android:text="锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦。"
+		            android:textSize="12sp"/>     
+		            
+		        <TextView 
+		            android:id="@+id/tv_date"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:layout_marginTop="30dp"
+		            android:layout_marginRight="10dp"
+		            android:paddingBottom="10dp"
+		            android:gravity="right"
+		            android:text="24.Apr.2016"
+		            android:textSize="12sp"/>  	            
+	            
+	        </LinearLayout>
+	        
+	    </LinearLayout>    
+	
+	 </ScrollView>   
+	
+     <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#40bda4">
+        
+        <Button 
+            android:id="@+id/btn_today"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#40bda4"
+            android:text="@string/Today"
+            android:textSize="16sp"
+            android:textColor="@android:color/white"/>
+        
+        <Button 
+            android:id="@+id/btn_weekly"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#40bda4"
+            android:text="@string/Weekly"
+            android:textSize="16sp"
+            android:textColor="@android:color/white"/>
+        
+        <Button 
+            android:id="@+id/btn_discover"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#40bda4"
+            android:text="@string/Discover"
+            android:textSize="16sp"
+            android:textColor="@android:color/white"/>       
+    </LinearLayout> 
+         
+</LinearLayout>
+

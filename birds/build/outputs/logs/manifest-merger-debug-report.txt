@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:2:1-73:12
+	package
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:7:22-64
+uses-sdk
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:9:5-11:41
+MERGED from [Birds:slidelibrary:unspecified] E:\AndroidStudioProjects\Birds\slidelibrary\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\lenovo\.android\build-cache\9f2f12c0d1e834047a3d8b71b11957de9499d634\output\AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:11:9-38
+		INJECTED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:10:9-35
+		INJECTED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml
+application
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:13:5-71:19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\lenovo\.android\build-cache\9f2f12c0d1e834047a3d8b71b11957de9499d634\output\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:15:9-38
+	android:theme
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:17:9-40
+activity#com.zy.birds.activity.LoadingActivity
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:18:9-27:20
+	android:label
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:19:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:25:27-74
+activity#com.zy.birds.activity.MainActivity
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:28:9-30:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:29:13-62
+activity#com.zy.birds.activity.RegisterActivity
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:31:9-33:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:32:13-66
+activity#com.zy.birds.activity.DiscoverActivity
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:34:10-36:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:35:13-66
+activity#com.zy.birds.activity.DetailActivity
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:37:9-39:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:38:13-64
+activity#com.zy.birds.activity.LoginActivity
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:40:9-42:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:41:13-63
+activity#com.zy.birds.activity.WeeklyActivity
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:43:9-45:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:44:13-64
+activity#com.zy.birds.activity.ShareActivity
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:46:9-48:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:47:13-63
+activity#com.zy.birds.activity.MyshareActivity
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:49:9-51:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:50:13-65
+activity#com.zy.birds.activity.FavoriteActivity
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:52:9-54:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:53:13-66
+activity#com.zy.birds.activity.SettingsActivity
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:55:9-57:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:56:13-66
+activity#com.zy.birds.activity.PasswordActivity
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:58:9-60:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:59:13-66
+activity#com.zy.birds.activity.SearchActivity
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:61:9-63:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:62:13-64
+activity#com.zy.birds.activity.TodayActivity
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:64:9-66:20
+	android:name
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:65:13-63
+activity#com.zy.birds.activity.WcontentActivity
+ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:67:9-70:20
+	android:launchMode
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from E:\AndroidStudioProjects\Birds\birds\src\main\AndroidManifest.xml:68:13-66

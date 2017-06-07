@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\9f2f12c0d1e834047a3d8b71b11957de9499d634\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\AndroidStudioProjects\Birds\birds\build\intermediates\pre-dexed\debug\classes_b4796689d317c1ba0a4f51873dcc7509a42b87a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\9f2f12c0d1e834047a3d8b71b11957de9499d634\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\AndroidStudioProjects\Birds\birds\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_0299e2a8742b25de1c40883bb37806231a4663fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Birds\slidelibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cca4faa5306e13c10b5ab46377332d0ced53dc0b">
+        <dex dex="E:\AndroidStudioProjects\Birds\birds\build\intermediates\pre-dexed\debug\classes_8f53b3ae4fe8c36f904e475e791c7d309b0bf3d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\AndroidStudioProjects\Birds\birds\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_1f4ef05380692b575129df00f4d32765c9adf605.jar" />
+    </item>
+
+</items>

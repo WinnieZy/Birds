@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Birds</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="account">account</string>
+	<string name="login">登录</string>
+	<string name="password">password</string>	
+	<string name="forget">忘记密码>></string>	
+	<string name="separator">|</string>			
+	<string name="register_link">注册Birds账号</string>	
+	<string name="register">注册</string>		
+	<string name="userName">用户名：</string>	
+	<string name="password_c">密码：</string>		
+	<string name="makesure">确认密码：</string>		
+	<string name="email">电子邮箱：</string>		
+	<string name="checkCode">验证码：</string>
+	<string name="registerName">请输入用户名</string>	
+	<string name="registerPassword">请设置密码</string>	
+	<string name="registerEmail">常用邮箱地址</string>	
+	<string name="registerSurePW">请确认密码</string>	
+	<string name="registerCheckCode">验证码</string>		
+	<string name="head">头像</string>
+	<string name="Discover">Discover</string>	
+	<string name="Details">Details</string>
+	<string name="Today">Today</string>
+	<string name="Weekly">Weekly</string>
+	<string name="Share">Share</string>
+	<string name="Settings">Settings</string>
+	<string name="Myshare">My share</string>
+	<string name="Favorite">Favorite</string>
+	<string name="comment">说点什么吧</string>
+	<string name="Passwordchange">修改密码</string>	
+	<string name="loading">loading</string>	
+</resources>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f0f0f0" >
+
+	<ImageView 
+        android:id="@+id/iv_dc_head"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@drawable/head"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"/>    
+        
+	<TextView 
+        android:id="@+id/tv_dc_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Summer"
+        android:textSize="14sp"
+        android:layout_toRightOf="@id/iv_dc_head"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="12dp"/>
+
+	<TextView 
+        android:id="@+id/tv_dc_psource"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="原"
+        android:textSize="10sp"
+        android:layout_below="@id/tv_dc_name"
+        android:layout_toRightOf="@id/iv_dc_head"
+        android:layout_marginLeft="14dp"
+        android:layout_marginTop="4dp"/>	
+		
+	<TextView 
+        android:id="@+id/tv_dc_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2h"
+        android:textSize="12sp"
+        android:textColor="#bebac2"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"/> 
+	
+	<ImageView 
+        android:id="@+id/iv_dc_clock"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:background="@drawable/clock"
+        android:layout_toLeftOf="@id/tv_dc_time"
+        android:layout_alignTop="@id/tv_dc_time"
+        android:layout_marginRight="6dp"/>
+	
+	<TextView 
+        android:id="@+id/tv_dc_pt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="4dp"
+        android:layout_below="@id/tv_dc_name"
+        android:text="飞鸟集"
+        android:textSize="14sp"/> 
+
+	<TextView 
+        android:id="@+id/tv_dc_poem"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginLeft="54dp"
+        android:layout_below="@id/tv_dc_pt"
+        android:background="#e4f4d9"
+        android:padding="10dp"
+        android:text="夏天的飞鸟，飞到我的窗前唱歌，又飞去了。"
+        android:textSize="12sp"
+        android:lineSpacingExtra="10dp"/>	    
+	
+
+	
+	<LinearLayout 
+	    android:id="@+id/ll_btn"
+	    android:layout_width="match_parent"
+	    android:layout_height="46dp"
+	    android:orientation="horizontal"
+	    android:layout_below="@id/tv_dc_poem"
+	    android:gravity="center">
+
+	    <TextView 
+	        android:id="@+id/tv_dc_heart"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:gravity="center_vertical"
+	        android:drawableLeft="@drawable/heart"
+	        android:drawablePadding="10dp"
+	        android:layout_marginLeft="34dp"
+	        android:layout_marginRight="20dp"
+	        android:text="20"/>
+	    
+	    <TextView 
+	        android:id="@+id/tv_dc_comment"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:gravity="center_vertical"
+	        android:drawableLeft="@drawable/comment"
+	        android:drawablePadding="10dp"
+	        android:layout_marginLeft="20dp"
+	        android:layout_marginRight="20dp"
+	        android:text="15"/>
+	    
+	    <TextView 
+	        android:id="@+id/tv_dc_star"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:gravity="center_vertical"
+	        android:drawableLeft="@drawable/star"
+	        android:drawablePadding="10dp"
+	        android:layout_marginLeft="20dp"
+	        android:text="8"/>	 
+	           
+	    </LinearLayout>
+	    
+</RelativeLayout>

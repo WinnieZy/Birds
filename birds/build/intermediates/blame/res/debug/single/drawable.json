@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\today.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\today.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_login.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\btn_login.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\email.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\email.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_bgo.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\iv_bgo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_bgth.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\iv_bgth.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_bgt.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\iv_bgt.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\poembg.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\poembg.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\discover.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\discover.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\line.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\line.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\check.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\check.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_bgts.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\iv_bgts.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\registerbg.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\registerbg.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\redheart.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\redheart.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\editbg.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\editbg.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\heart.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\heart.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\star.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\star.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\greencomment.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\greencomment.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\key.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\key.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\sharesend.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\sharesend.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\ccbg.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\ccbg.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\sharebg.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\sharebg.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_menu.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\btn_menu.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\sethead.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\sethead.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\yellowstar.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\yellowstar.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_today.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\iv_today.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_bgths.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\iv_bgths.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_share.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\btn_share.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\psr.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\psr.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\cross.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\cross.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\loading.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\comment.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\comment.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\pst.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\pst.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_sendcm.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\btn_sendcm.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\weekly.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\weekly.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\psh.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\psh.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_search.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\btn_search.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\head.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\head.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\cross_w.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\cross_w.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\search_btn.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\search_btn.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_bgos.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\iv_bgos.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\headbg.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\headbg.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\clock.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\clock.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border.xml",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\bg_border.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\editbg_w.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\editbg_w.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\searchbg.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\searchbg.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Birds\\birds\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_setting.png",
+        "source": "E:\\AndroidStudioProjects\\Birds\\birds\\src\\main\\res\\drawable\\btn_setting.png"
+    }
+]
